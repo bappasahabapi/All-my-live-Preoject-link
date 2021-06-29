@@ -1,0 +1,45 @@
+
+			Theme 
+		-------------------------
+1.jellyfish
+2.Cobalt 2
+3.Sublime Text	
+4.dcode Theme
+	         	Extention 
+		-------------------------
+1.Auto Rename Tag
+2.file-icons
+3.Bracket Pair Colorizer 2
+4.Dummy Text Generator
+
+		   ShortCut Commands 
+		-------------------------
+	
+1. open command palettle: 	𝐜𝐭𝐫 + 𝐬𝐡𝐢𝐟𝐭 + 𝐩
+2. open terminal : 		𝐜𝐭𝐫 + 𝐬𝐡𝐢𝐟𝐭 + ` 
+3. Move line down or up : 	𝐚𝐥𝐭𝐫 + 𝐚𝐫𝐫𝐨𝐰 𝐮𝐩 𝐨𝐫 𝐝𝐨𝐰𝐧
+4. Copy line down : 		𝐜𝐭𝐫 + 𝐃
+5. Make multiple div: 		div.box.*6 and press enter
+6. Use multiple cursor: 	alt + mouse
+7. Find something|ReplaceClass: ctr + F
+
+		     Cool Utilies
+		-------------------------
+word warp
+mouse wheel 
+--------------------- user snippets-------------
+JavaScript:
+		console log = cons(and hit enter)
+		
+
+
+
+
+
+
+
+
+
+
+
+
